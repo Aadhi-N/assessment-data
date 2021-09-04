@@ -1,0 +1,25 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "https://cdn.dribbble.com/users/1303437/screenshots/14056397/media/fb65a1ec11e672d380f5f1fb39a26edd.png?compress=1&resize=500x500",
+        "title": "Early Career"
+      },
+      {
+        "id": 2,
+        "image": "https://cdn.dribbble.com/users/721278/screenshots/14724458/media/32a3391a161ad3236f5260ef37057526.png?compress=1&resize=500x500",
+        "title": "Home Ownership"
+      },
+      {
+        "id": 3,
+        "image": "https://cdn.dribbble.com/users/1089393/screenshots/9621763/media/924d6b9adb4b50d3c3738278eb09cc2e.png?compress=1&resize=500x500",
+        "title": "Pre-Retirement"
+      },
+      {
+        "id": 4,
+        "image": "https://cdn.dribbble.com/users/156486/screenshots/4459550/retiremen.jpg?compress=1&resize=500x500",
+        "title": "Retirement"
+      }
+    ]
+  }
+  

@@ -1,0 +1,84 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "https://cdn.dribbble.com/users/1303437/screenshots/13961057/media/31608784cb0d68a44b381a5bf2854481.png?compress=1&resize=500x500",
+        "title": "Personal Finance Essentials",
+        "description": "If you're ready to take charge of your personal finances, then you're in the right place. From budgeting to borrowing, real estate and beyond, invest a few hours and you'll gain the knowledge and confidence to make a lifetime of smart financial decisions.",
+        "lessons": 18,
+        "duration": "3h 2m",
+        "trending": true,
+        "recommended": false
+      },
+      {
+        "id": 2,
+        "image": "https://cdn.dribbble.com/users/721278/screenshots/14724458/media/32a3391a161ad3236f5260ef37057526.png?compress=1&resize=500x500",
+        "title": "Home Ownership",
+        "description": "Understanding mortgages and saving for a home.",
+        "lessons": 8,
+        "duration": "2h 23m",
+        "trending": false,
+        "recommended": true
+      },
+      {
+        "id": 3,
+        "image": "https://cdn.dribbble.com/users/721278/screenshots/14724458/media/32a3391a161ad3236f5260ef37057526.png?compress=1&resize=500x500",
+        "title": "Growing Families",
+        "description": "What parents need to know for their children's future.",
+        "lessons": 11,
+        "duration": "58m",
+        "trending": false,
+        "recommended": true
+      },
+      {
+        "id": 4,
+        "image": "https://cdn.dribbble.com/users/156486/screenshots/4459550/retiremen.jpg?compress=1&resize=500x500",
+        "title": "Pre-Retirement",
+        "description": "A focus on the late career stage and a look ahead to retirement.",
+        "lessons": 6,
+        "duration": "38m",
+        "trending": true,
+        "recommended": false
+      },
+      {
+        "id": 5,
+        "image": "https://cdn.dribbble.com/users/1303437/screenshots/14056397/media/fb65a1ec11e672d380f5f1fb39a26edd.png?compress=1&resize=500x500",
+        "title": "Early Career",
+        "description": "The most important areas for employees building their career and establishing their financial foundation.",
+        "lessons": 12,
+        "duration": "1h 12m",
+        "trending": true,
+        "recommended": false
+      },
+      {
+        "id": 6,
+        "image": "https://cdn.dribbble.com/users/2417352/screenshots/15683376/media/5437e8e4685e08d8135d88c0cd38dc6a.png?compress=1&resize=500x500",
+        "title": "Cryptocurrencies",
+        "description": "A primer on the growing field of cryptocurrencies, and their various types.",
+        "lessons": 9,
+        "duration": "1h 21m",
+        "trending": false,
+        "recommended": true
+      },
+      {
+        "id": 7,
+        "image": "https://cdn.dribbble.com/users/1303437/screenshots/14247869/media/544c1d6441e52f513d2c76ab459d9b2f.png?compress=1&resize=500x500",
+        "title": "Personal Investing Essentials",
+        "description": "What to know about relevant investment accounts and how to manage each one.",
+        "lessons": 13,
+        "duration": "1h 47m",
+        "trending": false,
+        "recommended": true
+      },
+      {
+        "id": 8,
+        "image": "https://cdn.dribbble.com/users/1303437/screenshots/14032547/media/92dd571b0df0c80df3ced0b686fe4695.png?compress=1&resize=500x500",
+        "title": "Workplace Investing Essentials",
+        "description": "A breakdown on stock matching and employee pension plans.",
+        "lessons": 12,
+        "duration": "1h 29m",
+        "trending": true,
+        "recommended": false
+      }
+    ]
+  }

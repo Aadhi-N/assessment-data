@@ -1,0 +1,21 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "https://cdn.dribbble.com/users/2617533/screenshots/9954716/media/72be86edaaf38c425543d653d6669b9f.jpg?,compress=1&resize=500x500",
+        "title": "Budgeting",
+        "progress_value": 40,
+        "lessons": 6,
+        "duration": "1h 15m"
+      },
+      {
+        "id": 2,
+        "image": "https://cdn.dribbble.com/users/1303437/screenshots/14001831/media/0c2eb2dc9859548e640fa88d5f921170.png?compress=1&resize=500x500",
+        "title": "Saving for Retirement",
+        "progress_value": 23,
+        "lessons": 7,
+        "duration": "1h 23m"
+      }
+    ]
+  }
+  
